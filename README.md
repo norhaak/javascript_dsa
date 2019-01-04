@@ -1,1 +1,1 @@
-# javascript_dsa
+# Data Structures and Algorithms training in Javascript
